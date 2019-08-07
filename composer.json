@@ -1,0 +1,15 @@
+{
+  "require": {
+    "php": ">=7.1.0",
+    "ext-pdo": "*",
+    "mnapoli/silly": "^1.7",
+    "mnapoli/silly-php-di": "^1.2",
+    "symfony/yaml": "^4.2"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Burbage\\": "src/Burbage"
+    }
+  }
+}

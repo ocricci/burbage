@@ -1,0 +1,10 @@
+database1:
+  host: host
+  port: null
+  user: user
+  password: password
+database2:
+  host: host
+  port: null
+  user: user
+  password: password
